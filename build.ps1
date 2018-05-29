@@ -24,8 +24,7 @@ if ($Push) {
         vsce package
     } catch {
         throw "failed to package theme $($Theme.Name)"
-        Pop-Location
     }
 
-    Get-Item *.vsix | Move-Item -Destination ..\Packages
+    Get-Item *.vsix | Move-Item -Destination .\Packages
 }
