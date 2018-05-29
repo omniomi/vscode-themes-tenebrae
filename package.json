@@ -2,11 +2,16 @@
     "name": "themes-tenebrae",
     "displayName": "Tenebrae",
     "description": "Tenebrae dark themes for VS Code.",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "publisher": "nick-james",
     "repository": {
         "type": "git",
         "url": "https://github.com/omniomi/vscode-themes-tenebrae.git"
+    },
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#233344",
+        "theme": "dark"
     },
     "engines": {
         "vscode": "^1.18.0"
