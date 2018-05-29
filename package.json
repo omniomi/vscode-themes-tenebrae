@@ -1,15 +1,15 @@
 {
-    "name": "theme-omnidark",
-    "displayName": "OmniDark Themes",
-    "description": "Dark themes for VS Code.",
-    "version": "0.0.1",
+    "name": "themes-tenebrae",
+    "displayName": "Tenebrae",
+    "description": "Tenebrae dark themes for VS Code.",
+    "version": "1.0.0",
     "publisher": "nick-james",
     "repository": {
         "type": "git",
-        "url": "https://github.com/omniomi/vscode-themes.git"
+        "url": "https://github.com/omniomi/vscode-themes-tenebrae.git"
     },
     "engines": {
-        "vscode": "^1.20.0"
+        "vscode": "^1.18.0"
     },
     "categories": [
         "Themes"
@@ -17,24 +17,24 @@
     "contributes": {
         "themes": [
             {
-                "label": "OmniDark (Blue)",
+                "label": "Tenebrae (Blue)",
                 "uiTheme": "vs-dark",
-                "path": "./theme/theme-omnidark.json"
+                "path": "./theme/theme-tenebrae-blue.json"
             },
             {
-                "label": "OmniDarker (Blue)",
+                "label": "Tenebrae (Dark Blue)",
                 "uiTheme": "vs-dark",
-                "path": "./theme/theme-omnidarker.json"
+                "path": "./theme/theme-tenebrae-darkblue.json"
             },
             {
-                "label": "OmniDark (Green)",
+                "label": "Tenebrae (Green)",
                 "uiTheme": "vs-dark",
-                "path": "./theme/theme-omnidark-green.json"
+                "path": "./theme/theme-tenebrae-green.json"
             },
             {
-                "label": "OmniDarker (Green)",
+                "label": "Tenebrae (Dark Green)",
                 "uiTheme": "vs-dark",
-                "path": "./theme/theme-omnidarker-green.json"
+                "path": "./theme/theme-tenebrae-darkgreen.json"
             }
         ]
     }
