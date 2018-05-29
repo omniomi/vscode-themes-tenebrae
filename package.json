@@ -1,0 +1,41 @@
+{
+    "name": "theme-omnidark",
+    "displayName": "OmniDark Themes",
+    "description": "Dark themes for VS Code.",
+    "version": "0.0.1",
+    "publisher": "nick-james",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/omniomi/vscode-themes.git"
+    },
+    "engines": {
+        "vscode": "^1.20.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "OmniDark (Blue)",
+                "uiTheme": "vs-dark",
+                "path": "./theme/theme-omnidark.json"
+            },
+            {
+                "label": "OmniDarker (Blue)",
+                "uiTheme": "vs-dark",
+                "path": "./theme/theme-omnidarker.json"
+            },
+            {
+                "label": "OmniDark (Green)",
+                "uiTheme": "vs-dark",
+                "path": "./theme/theme-omnidark-green.json"
+            },
+            {
+                "label": "OmniDarker (Green)",
+                "uiTheme": "vs-dark",
+                "path": "./theme/theme-omnidarker-green.json"
+            }
+        ]
+    }
+}
