@@ -2,7 +2,7 @@
     "name": "themes-tenebrae",
     "displayName": "Tenebrae",
     "description": "Tenebrae dark themes for VS Code.",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "publisher": "nick-james",
     "repository": {
         "type": "git",
@@ -24,22 +24,22 @@
             {
                 "label": "Tenebrae (Blue)",
                 "uiTheme": "vs-dark",
-                "path": "./theme/theme-tenebrae-blue.json"
+                "path": "./themes/theme-tenebrae-blue.json"
             },
             {
                 "label": "Tenebrae (Dark Blue)",
                 "uiTheme": "vs-dark",
-                "path": "./theme/theme-tenebrae-darkblue.json"
+                "path": "./themes/theme-tenebrae-darkblue.json"
             },
             {
                 "label": "Tenebrae (Green)",
                 "uiTheme": "vs-dark",
-                "path": "./theme/theme-tenebrae-green.json"
+                "path": "./themes/theme-tenebrae-green.json"
             },
             {
                 "label": "Tenebrae (Dark Green)",
                 "uiTheme": "vs-dark",
-                "path": "./theme/theme-tenebrae-darkgreen.json"
+                "path": "./themes/theme-tenebrae-darkgreen.json"
             }
         ]
     }
