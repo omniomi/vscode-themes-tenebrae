@@ -40,6 +40,11 @@
                 "label": "Tenebrae (Dark Green)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/theme-tenebrae-darkgreen.json"
+            },
+            {
+                "label": "Tenebrae (Black)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/theme-tenebrae-black.json"
             }
         ]
     }
