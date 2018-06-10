@@ -46,7 +46,15 @@
 		"tab.border": "#00474d",
 		"tab.activeForeground": "#ccecdf",
 		"tab.inactiveForeground": "#ccecdf7a",
-		"tab.inactiveBackground": "#112e317a"
+		"tab.inactiveBackground": "#112e317a",
+		"dropdown.background": "#112e31",
+		"button.background": "#112e31",
+		"editorWidget.background": "#0f2a2c",
+		"editorWidget.border": "#112e31",
+		"titleBar.activeBackground": "#112e31",
+		"titleBar.activeForeground": "#FFFFFF",
+		"titleBar.inactiveBackground": "#0f2a2c",
+		"titleBar.inactiveForeground": "#FFFFFF"
 	},
 	"tokenColors": [
 		{
