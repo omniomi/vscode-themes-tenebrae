@@ -9,7 +9,10 @@ A small collection of dark themes for VS Code.
 
 ![Screenshot](https://raw.githubusercontent.com/omniomi/vscode-themes-tenebrae/master/screenshots/colours.png)
 
+* Tenebrae (Black)
 * Tenebrae (Blue)
 * Tenebrae (Dark Blue)
 * Tenebrae (Green)
 * Tenebrae (Dark Green)
+* Tenebrae (Purple)
+* Tenebrae (Dark Purple)
