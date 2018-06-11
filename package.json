@@ -32,6 +32,16 @@
                 "path": "./themes/theme-tenebrae-darkblue.json"
             },
             {
+                "label": "Tenebrae (Purple)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/theme-tenebrae-purple.json"
+            },
+            {
+                "label": "Tenebrae (Dark Purple)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/theme-tenebrae-darkpurple.json"
+            },
+            {
                 "label": "Tenebrae (Green)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/theme-tenebrae-green.json"
