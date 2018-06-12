@@ -70,7 +70,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#00fa9a"
+				"foreground": "#00c87b"
 			}
 		},
 		{
@@ -80,7 +80,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#3287ff"
 			}
 		},
 		{
@@ -119,6 +119,7 @@
 				"keyword.control",
 				"constant.other.color",
 				"punctuation",
+				"keyword.other.array",
 				"meta.tag",
 				"punctuation.definition.tag",
 				"punctuation.separator.inheritance.php",
@@ -700,7 +701,7 @@
 		{
 			"scope": "keyword.other.variable.definition.powershell",
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#3287ff"
 			}
 		},
 		{
